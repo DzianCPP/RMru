@@ -1,0 +1,14 @@
+#flash_success{
+    margin: 20px;
+    background: #00cc00;
+    border: 2px;
+    border-color: #008000;
+    text-align: center;
+}
+#flash_failure{
+    margin: 20px;
+    background: #ff0000;
+    border: 2px;
+    border-color: #a70000;
+    text-align: center;
+}
